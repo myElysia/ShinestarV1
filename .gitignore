@@ -1,0 +1,7 @@
+.idea
+.venv
+backend/.env
+frontend/.env
+frontend/.nuxt
+frontend/.output
+frontend/node_modules
