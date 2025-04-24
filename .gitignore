@@ -1,6 +1,6 @@
 .idea
 .venv
-backend/.env
+.env
 frontend/.env
 frontend/.nuxt
 frontend/.output
