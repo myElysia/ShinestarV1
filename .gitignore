@@ -1,8 +1,12 @@
 .idea
 .venv
 .env
-frontend/.env
-frontend/.nuxt
-frontend/.output
-frontend/node_modules
+jira_frontend/.env
+jira_frontend/.nuxt
+jira_frontend/.output
+jira_frontend/node_modules
+blog_frontend/.env
+blog_frontend/.nuxt
+blog_frontend/.output
+blog_frontend/node_modules
 node_modules
